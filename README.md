@@ -25,7 +25,8 @@ Pre-Trade Splitter Whiff Rate: 26.61%
 
 Post-Trade Splitter Whiff Rate: 27.35%
 
-## The Takeaway: The whiff rate remained nearly identical (a marginal +0.74% change). The true catalyst for his turnaround wasn't an altered physical shape or velocity spike on the pitch; it was strategic volume. By increasing his splitter usage by nearly 15 percentage points, Mahle gave hitters a pitch they consistently struggled to square up much more frequently, keeping opponents off-balance through repetition and sequencing.
+## The Takeaway 
+The whiff rate remained nearly identical (a marginal +0.74% change). The true catalyst for his turnaround wasn't an altered physical shape or velocity spike on the pitch; it was strategic volume. By increasing his splitter usage by nearly 15 percentage points, Mahle gave hitters a pitch they consistently struggled to square up much more frequently, keeping opponents off-balance through repetition and sequencing.
 
 3. Macro-Level Improvements
 His average pitch velocity ticked up from 89.2 mph with the Giants to 90.0 mph with the Braves, suggesting a positive bump in adrenaline following the transition to a contender's pitching infrastructure.
