@@ -1,4 +1,5 @@
 Decoding Tyler Mahle: A Mid-Season Pitch-Mix Optimization Study
+
 Overview
 When veteran pitcher Tyler Mahle was traded to the Atlanta Braves at the trade deadline, his season experienced a dramatic turnaround. This project explores the data-driven mechanics behind that resurgence. Moving beyond traditional box scores, this study leverages Python, Statcast pitch-by-pitch tracking data, and a local SQLite database to analyze how a subtle adjustment by the Braves' coaching staff unlocked career-best efficiency.
 
